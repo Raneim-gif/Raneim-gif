@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/8u8vgcbc7fjh1.gif" width="700" alt="Cyberpunk anime animation"/>
+<img src="./assets/8u8vgcbc7fjh1.gif" width="100%" alt="Cyberpunk anime animation"/>
 
 <br/><br/>
 
