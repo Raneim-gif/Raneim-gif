@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090014,40:102A56,75:2457A6,100:00D9FF&text=RANEIM%20%2F%2F%20QA%20TESTER&fontColor=00F5FF&fontSize=38&fontAlignY=45&animation=fadeIn" width="100%" alt="Raneim QA Tester"/>
 
 <br/>
-
+<div align="center">
 <img src="./assets/8u8vgcbc7fjh1.gif" width="400" alt="Cyberpunk anime animation"/>
-
+</div>
 <br/><br/>
 
 <a href="https://github.com/Raneim-gif">
