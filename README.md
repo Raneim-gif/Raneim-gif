@@ -147,7 +147,7 @@ A personal character card inspired by RPG and trading card designs.
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raneim-gif&layout=compact&hide_border=true&include_all_commits=false&count_private=false&bg_color=090014&title_color=00D9FF&text_color=E6E6FA" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Raneim-gif&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
+
 
 </div>
 
